@@ -15,11 +15,11 @@ function divide(x,y) {
 }
 
 function inc(x) {
-  return x += x
+  return x++
 }
 
 function dec(x) {
-  return x -= x
+  return x--
 }
 
 function makeInt(x) {
